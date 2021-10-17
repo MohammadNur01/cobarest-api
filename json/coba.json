@@ -1,0 +1,30 @@
+[
+  {
+    "nama" : "Mohammad Nuraini",
+    "umur" : 24,
+    "nip" : "084938432",
+    "lulus" : true,
+    "hobby" : [
+      "coding", 
+      "fishing"
+    ],
+    "tutor" : {
+      "tutor1" : "Alina Boo",
+      "tutor2" : "Sandhika"
+    }
+  },
+  {
+    "nama" : "Mohammad Nuraini",
+    "umur" : 24,
+    "nip" : "084938432",
+    "lulus" : true,
+    "hobby" : [
+      "coding", 
+      "fishing"  
+    ],
+    "tutor" : {
+      "tutor1" : "Alina Boo",
+      "tutor2" : "Sandhika"
+    }
+  }
+]

@@ -1,5 +1,6 @@
-$('#search-button').on('click', function(){
-  $.ajax({
+function searchMovie(){
+  $('#movie-list').html('');
+    $.ajax({
     url:'http://omdbapi.com',
     type : 'get',
     dataType: 'json',
@@ -22,6 +23,9 @@ $('#search-button').on('click', function(){
 
           `);
         });
+
+        $('#search-input').val('');
+
       }else{
         $('#movie-list').html(`
         <div class="col">
@@ -31,4 +35,15 @@ $('#search-button').on('click', function(){
       }
     }
   });
+  }
+
+$('#search-button').on('click', function(){
+
+  searchMovie();
+});
+
+$('#seacrh-input').on('keyup', function(e){
+  if (e.keyCode == 13){
+    searchMovie();
+  }
 });

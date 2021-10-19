@@ -1,0 +1,102 @@
+
+{
+  "menu" : [
+      {
+    "kategori" : "makanan",
+    "nama" : "Nasi Goreng Original",
+    "deskripsi" : "Nasi goreng biasa tanpa campuran ayam dan telur",
+    "harga": 10000,
+    "gambar" : "nasgor-ori.jpg" 
+      },
+      {
+    "kategori" : "makanan",
+    "nama" : "Nasi Goreng Ayam",
+    "deskripsi" : "Nasi goreng dengan campuran ayam",
+    "harga": 13000,
+    "gambar" : "nasgor-ayam.jpg" 
+      },
+      {
+    "kategori" : "makanan",
+    "nama" : "Nasi Goreng Telur",
+    "deskripsi" : "Nasi goreng dengancampuran telur",
+    "harga": 12000,
+    "gambar" : "nasgor-telur.jpg" 
+      },
+      {
+    "kategori" : "makanan",
+    "nama" : "Nasi Goreng Seafood",
+    "deskripsi" : "Nasi goreng dengan campuran seafood",
+    "harga": 16000,
+    "gambar" : "nasgor-seafood.jpg" 
+      },
+      {
+    "kategori" : "makanan",
+    "nama" : "Nasi Goreng Bakso",
+    "deskripsi" : "Nasi goreng dengan campuran bakso",
+    "harga": 13000,
+    "gambar" : "nasgor-bakso.jpg" 
+      },{
+    "kategori" : "makanan",
+    "nama" : "Soto Ayam",
+    "deskripsi" : "Nasi dan kuah soto dengan campuran daging ayam",
+    "harga": 10000,
+    "gambar" : "soto-ayam.jpg" 
+      },
+      {
+    "kategori" : "makanan",
+    "nama" : "Soto Daging",
+    "deskripsi" : "Nasi dan kuah soto dengan campuran daging sapi",
+    "harga": 14000,
+    "gambar" : "soto-daging.jpg" 
+      },
+      {
+    "kategori" : "makanan",
+    "nama" : "Nasi Rawon",
+    "deskripsi" : "Nasi dan kuah hitam rawon serta daging sapi",
+    "harga": 14000,
+    "gambar" : "rawon.jpg" 
+      },
+      {
+    "kategori" : "minuman",
+    "nama" : "Es Buah",
+    "deskripsi" : "Es dengan campuran potongan berbagai macam buah",
+    "harga": 10000,
+    "gambar" : "es-buah.jpg" 
+      },
+      {
+    "kategori" : "minuman",
+    "nama" : "Es Jeruk",
+    "deskripsi" : "Es dengan perasan jeruk asli",
+    "harga": 7000,
+    "gambar" : "es-jeruk.jpg" 
+      },
+      {
+    "kategori" : "minuman",
+    "nama" : "Es Teh",
+    "deskripsi" : "Es teh asli",
+    "harga": 5000,
+    "gambar" : "es-teh.jpg" 
+      },
+      {
+    "kategori" : "camilan",
+    "nama" : "Es Krim",
+    "deskripsi" : "Es krim segar",
+    "harga": 8000,
+    "gambar" : "es-krim.jpg" 
+      },
+      {
+    "kategori" : "camilan",
+    "nama" : "Kerupuk",
+    "deskripsi" : "Kerupuk renyah",
+    "harga": 2000,
+    "gambar" : "kerupuk.jpg" 
+      },
+      {
+    "kategori" : "camilan",
+    "nama" : "Keripik Udang",
+    "deskripsi" : "Udang yang digoreng kryspi",
+    "harga": 8000,
+    "gambar" : "keripik-udang.jpg" 
+      }
+  ]
+}
